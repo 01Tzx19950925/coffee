@@ -1,0 +1,34 @@
+.box{
+	padding-top:12px;
+	margin: 0 auto;
+	text-align: center;
+}
+.picture> img{
+	width:800px ;
+}
+.minibox>h2{
+	font-size: 46px;
+	margin-top: 60px;
+}
+.minibox>h5{
+	font-size: 28px;
+	line-height: 56px;
+}
+.box ul{
+    width: 300px;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+	margin-top: 30px;
+}
+.box ul li{
+	width: 140px;
+	height: 46px;
+	border:1px solid #333;
+	border-radius: 30px;
+	line-height:46px ;
+}
+.box ul li a{
+	font-size: 24px;
+	color: #333;
+}
